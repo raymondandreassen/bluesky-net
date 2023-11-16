@@ -1,6 +1,6 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bluesky.Net", "src\Bluesky.Net\Bluesky.Net.csproj", "{93F2F7E1-EB0D-423D-BA6C-A32EC2759168}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bluesky.Net", "src\Bluesky.Net\Bluesky.Net.csproj", "{93F2F7E1-EB0D-423D-BA6C-A32EC2759168}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{1ED4D99E-25FD-4350-B3F9-DCD1B2A8EB65}"
 EndProject
